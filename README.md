@@ -12,10 +12,10 @@
 <p>There are a few documents and forms that I use to make the whole thing "go."</p>
 
 <ul>
-<li>Monthly Self-Assessment Form</li>
-<li>Monthly Review Document (template)</li>
-<li>Employee Roster (with management chain information)</li>
-<li>Assessment Submission Tracker</li>
+<li><a href = "https://docs.google.com/forms/d/14o3W566F9ING51U-IjL0dwF4P_lzTcQotIxfJKNQStg/viewform?usp=send_form">Monthly Self-Assessment Form</a></li>
+<li><a href = "https://docs.google.com/forms/d/14o3W566F9ING51U-IjL0dwF4P_lzTcQotIxfJKNQStg/viewform?usp=send_form">Monthly Review Document (template)</a></li>
+<li><a href = "https://docs.google.com/spreadsheets/d/1Icv6RPv_fvO_vissV8sMXtW7fpVGP9e4UKJccmgSHzE/edit?usp=sharing">Employee Roster (with management chain information)</a></li>
+<li><a href = "https://docs.google.com/spreadsheets/d/1DNJlze_VdtSuHp4zSlIDhzMOGZ9CxB-_4SZzFtQcYLI/edit?usp=sharing">Assessment Submission Tracker</a></li>
 </ul>
 
 <p>If you'd like to replicate or modify my process, start by making copies of each of these documents. You can then grab the script I have provided and modify the code to refer to your documents.</p>
