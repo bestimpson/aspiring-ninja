@@ -3,9 +3,9 @@
 <h1>Summary</h1>
 <p>At AOL, we have been using a monthly self-assessment and review process with the Paid Services Engineering team since May 2015. Prior to that time we had been evaluating a third party a performance management tool among our leadership team. I noted that we were really only using the performance review features of the tool, so when my manager asked me my opinion on whether we should purchase this tool for use with our entire team I told him "No. I think I can build what we need." Hence this project was born.</p>
 
-<p>The tool itself is built using Google Apps and Google Apps Script. When I started, I had a simple Google Form, a Google Sheet for capturing responses, a Google Doc-based Performance Review template, and a Google Apps Script to copy the template, populate it with individual form responses, rename it, save, it and share it with the employee and manager. Employees entered their names, selected their manager's name form a drop-down list, and all tracking was done manually.</p>
+<p>The tool itself is built using Google Apps and Google Apps Script. When I started, I had a simple Google Form, a Google Sheet for capturing responses, a Google Doc-based Performance Review template, and a Google Apps Script to copy the template, populate it with individual form responses, rename it, save, it and share it with the employee and manager. Employees entered their names, selected their manager's name from a drop-down list, and all submission tracking was done manually.</p>
 
-<p>Since that initial incarnation, I have added an automated submission tracker, an automated email reminder series, and eliminated the need for employees to provide their names or manager information by incorporating an employee roster that leverages our enterprise Google Apps environment to look that information up based on the employee's email address. I am providing my code here for anyone who may be interested in trying a similar approach.<p>
+<p>Since that initial incarnation, I have added an automated submission tracker, an automated email reminder series, and eliminated the need for employees to provide their names or manager information by incorporating an employee roster that leverages our enterprise Google Apps environment to look that information up based on the employee's email address (you have to be logged in to view our form). I am providing my code here for anyone who may be interested in trying a similar approach.<p>
 
 <h1>Getting Started</h1>
 
@@ -18,7 +18,7 @@
 <li><a href = "https://docs.google.com/spreadsheets/d/1DNJlze_VdtSuHp4zSlIDhzMOGZ9CxB-_4SZzFtQcYLI/edit?usp=sharing">Assessment Submission Tracker</a></li>
 </ul>
 
-<p>If you'd like to replicate or modify my process, start by making copies of each of these documents. You can then grab the script I have provided and modify the code to refer to your documents.</p>
+<p>If you'd like to replicate or modify my process, start by making copies of each of these documents. You can then grab the script I have provided and modify the code to refer to your documents. If you choose to use a CC list for the self-assessment submission emails or notify yourself when there is some type of failure, you'll also need to update the script with the appropriate addresses.</p>
 
 <h1>Process Overview</h1>
 
